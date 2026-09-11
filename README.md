@@ -14,19 +14,17 @@
 <!--Intro start-->
 
 <p align="left">
-🎓 <b>ESTUDIANTE DE INGENIERÍA EN INFORMÁTICA</b> 🏫💻
-
 🎥 <b>CREADOR DE CONTENIDO & DIVULGADOR TÉCNICO</b> 🚀
 <br>
-Compartiendo conocimientos 📚, creando tutoriales 🎬 y enseñando a programar addons y sistemas con la Bedrock Script API 🎮🔥
+Compartiendo conocimientos, creando tutoriales, enseñando a programar addons y sistemas con la Bedrock Script API 🎮🔥
 
 💻 <b>MÁS DE 5 AÑOS DE EXPERIENCIA PRÁCTICA</b> ⚙️
 <br>
-Desarrollando addons 🧩, creando herramientas full-stack 🌐, construyendo APIs con FastAPI ⚡ y administrando bases de datos y servidores 🐳
+Desarrollando addons, creando herramientas full-stack, construyendo APIs con FastAPI y administrando bases de datos y servidores
 
 🛠️ <b>ROLES & EXPERIENCIA EN EL ÁMBITO</b> 🧠
 <br>
-Desarrollador backend 🐍 · Creador de addons & scripting 🎮 · Diseñador de paneles admin 🖥️ · Entusiasta del bajo nivel & hardware 🔌 · Creador de contenido 📹
+Desarrollador backend · Creador de addons & scripting · Diseñador de paneles admin · Entusiasta del bajo nivel & hardware · Creador de contenido
 
 📫 <b>Contacto profesional:</b> ✉️
 <br>
