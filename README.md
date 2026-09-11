@@ -69,16 +69,22 @@ Puedes contactarme mediante un <b>Issue</b> o <b>Discussion</b> en GitHub 🐙
 ## 🚀 Proyecto Destacado
 
 ### 🖥️ Plataforma Web & API Backend de Administración
+*(Repositorio Privado / Sistema en Producción)*
+
 Sistema full-stack centralizado para la gestión remota de servidores, edición de código en vivo y administración de usuarios en tiempo real.
 
 * **Stack:** `Python` · `FastAPI` · `MySQL` · `SQLAlchemy` · `React` · `Vite` · `Docker` · `Monaco Editor`
 * **Arquitectura & Backend:** API RESTful optimizada con autenticación JWT, control de acceso basado en roles (RBAC) y persistencia relacional en MySQL.
 * **Frontend & Herramientas:** Editor de código integrado en la web mediante Monaco Editor, conexión en tiempo real para la gestión de servicios y despliegue contenedorizado con Docker.
 
+<!-- Captura de pantalla o GIF demostrativo del proyecto -->
+<p align="center">
+  <img src="URL_DE_TU_IMAGEN_O_GIF" alt="Demo Plataforma Web Admin" width="100%" style="border-radius: 8px;" />
+</p>
+
 <p align="left">
-  <a href="https://github.com/TU_USUARIO_GITHUB/TU_REPOSITORIO">
-    <img src="https://img.shields.io/badge/Ver_repositorio-181717?style=for-the-badge&logo=github&logoColor=white" height="28" alt="Ver proyecto en GitHub" />
-  </a>
+  <img src="https://img.shields.io/badge/Estado-Privado%20%2F%20Producción-4A5568?style=flat-square&logo=github" alt="Estado del proyecto" />
+  <img src="https://img.shields.io/badge/Demo-Disponible%20bajo%20solicitud-0052CC?style=flat-square" alt="Demo" />
 </p>
 
 
