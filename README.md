@@ -10,11 +10,11 @@
 <h1 align="center">Hola 👋, soy Max</h1>
 
 <p align="center">
-  <strong>Estudiante de Ingeniería en Informática</strong>
+  <strong>Estudiante de Ingeniería en Informática | Backend & Systems Enthusiast</strong>
 </p>
 
 <p align="center">
-  <em>Construyendo proyectos. Entendiendo sistemas. Aprendiendo todos los días.</em>
+  <em>Construyendo sistemas. Comprendiendo la arquitectura. Aprendiendo todos los días.</em>
 </p>
 
 <p align="center">
@@ -38,23 +38,23 @@
 ## 🧑‍💻 Sobre mí
 
 <p>
-  Soy estudiante de <strong>Ingeniería en Informática</strong> interesado en el desarrollo de software, backend, desarrollo web y programación de bajo nivel.
+  Soy estudiante de <strong>Ingeniería en Informática</strong> enfocado en desarrollo de software backend, arquitectura de APIs, desarrollo web full-stack y programación de bajo nivel.
 </p>
 
 <p>
-  Me gusta aprender construyendo proyectos, investigar cómo funcionan las tecnologías y resolver problemas de forma práctica.
+  Mi enfoque de aprendizaje es práctico: construyo proyectos para entender la lógica interna de cada herramienta, solucionar problemas de optimización y diseñar soluciones escalables.
 </p>
 
 <p>
-  He experimentado con <strong>Python, C/C++, JavaScript/TypeScript, APIs, bases de datos, Docker y Arduino</strong>, además de desarrollar sistemas utilizando Minecraft Bedrock Script API.
+  Tengo experiencia trabajando con <strong>Python, FastAPI, C/C++, JavaScript, TypeScript, bases de datos como MySQL, contenedores Docker y prototipado con hardware/Arduino e impresión 3D</strong>. También he desarrollado lógica avanzada utilizando la Minecraft Bedrock Script API.
 </p>
 
 <p>
-  Algunos de mis proyectos fueron construidos mientras adquiría mis primeros conocimientos técnicos, utilizando documentación, investigación y herramientas de IA como apoyo durante el proceso.
+  Muchos de mis proyectos combinan investigación independiente, documentación oficial e implementación de APIs modernas, utilizando herramientas de apoyo técnico e IA para acelerar flujos de trabajo.
 </p>
 
 <p>
-  Actualmente estoy consolidando mis fundamentos de programación y ampliando mis conocimientos en arquitectura de software, estructuras de datos, algoritmos y desarrollo backend.
+  Actualmente estoy profundizando en arquitectura de software, estructuras de datos avanzadas, algoritmos en C/C++ y optimización en entornos de servidores.
 </p>
 
 <br>
@@ -67,25 +67,25 @@
 
 <br>
 
-<table align="center">
+<table align="center" width="100%">
   <tr>
     <td align="center" width="33%">
       <h3>💻 Lenguajes</h3>
       <p>C · C++ · Python</p>
       <p>JavaScript · TypeScript</p>
-      <p>HTML · CSS</p>
+      <p>HTML5 · CSS3</p>
     </td>
     <td align="center" width="33%">
       <h3>🌐 Backend & Web</h3>
       <p>FastAPI · Node.js</p>
-      <p>APIs REST · SQL</p>
-      <p>React · Vite</p>
+      <p>REST APIs · MySQL / SQL</p>
+      <p>React · Vite · Monaco Editor</p>
     </td>
     <td align="center" width="33%">
-      <h3>⚙️ Herramientas</h3>
-      <p>Docker · Git · Linux</p>
-      <p>VS Code · Arduino</p>
-      <p>Entornos de desarrollo</p>
+      <h3>⚙️ Herramientas & Entorno</h3>
+      <p>Docker · Git · GitHub</p>
+      <p>Linux · VS Code · Arduino</p>
+      <p>Impresión 3D & Prototipado</p>
     </td>
   </tr>
 </table>
@@ -95,36 +95,35 @@
 ## 🚀 Proyectos destacados
 
 <p align="center">
-  <em>Proyectos personales y experimentales que representan mi aprendizaje práctico.</em>
+  <em>Proyectos personales y experimentales enfocados en desarrollo backend y sistemas.</em>
 </p>
 
 <br>
 
-<table align="center">
+<table align="center" width="100%">
   <tr>
     <td width="50%" valign="top">
 
 ### 🖥️ Plataforma Web de Administración
 
 <p>
-  Panel full-stack desarrollado para centralizar la administración de servicios y herramientas mediante una interfaz web.
+  Panel web full-stack desarrollado para centralizar la gestión de servicios, edición de código en vivo y consumo de APIs backend.
 </p>
 
 <p>
   <strong>Stack:</strong><br>
-  <code>Python</code> <code>FastAPI</code> <code>JavaScript</code> <code>Docker</code>
+  <code>Python</code> <code>FastAPI</code> <code>React</code> <code>Vite</code> <code>Docker</code> <code>Monaco Editor</code>
 </p>
 
 <p>
-  <strong>Conceptos:</strong>
+  <strong>Puntos clave:</strong>
 </p>
 
 <ul>
-  <li>APIs REST</li>
-  <li>Autenticación y autorización</li>
-  <li>Comunicación frontend ↔ backend</li>
-  <li>Edición de código con Monaco Editor</li>
-  <li>Gestión de servicios</li>
+  <li>Diseño e integración de APIs RESTful.</li>
+  <li>Autenticación de usuarios y permisos.</li>
+  <li>Edición de archivos en tiempo real con Monaco Editor.</li>
+  <li>Despliegue de entorno aislado mediante Docker.</li>
 </ul>
 
 <p align="center">
@@ -137,27 +136,26 @@
 
 <td width="50%" valign="top">
 
-### ⚡ API Backend con FastAPI
+### ⚡ API Backend con FastAPI & MySQL
 
 <p>
-  API REST desarrollada para experimentar con arquitectura backend, autenticación y persistencia de datos.
+  Backend optimizado enfocado en gestión de usuarios, roles de acceso, persistencia de datos y rendimiento.
 </p>
 
 <p>
   <strong>Stack:</strong><br>
-  <code>Python</code> <code>FastAPI</code> <code>SQLAlchemy</code> <code>Docker</code>
+  <code>Python</code> <code>FastAPI</code> <code>MySQL</code> <code>SQLAlchemy</code> <code>Docker</code>
 </p>
 
 <p>
-  <strong>Conceptos:</strong>
+  <strong>Puntos clave:</strong>
 </p>
 
 <ul>
-  <li>Endpoints REST</li>
-  <li>Gestión de usuarios</li>
-  <li>Roles y permisos</li>
-  <li>Bases de datos SQL</li>
-  <li>Contenedores Docker</li>
+  <li>Arquitectura de endpoints REST clara y escalable.</li>
+  <li>Modelado de bases de datos relacionales en MySQL.</li>
+  <li>Flujo seguro de autenticación JWT y autorización.</li>
+  <li>Contenedorización con Docker Compose.</li>
 </ul>
 
 <p align="center">
@@ -172,27 +170,25 @@
   <tr>
     <td width="50%" valign="top">
 
-### 📋 Sistema de Gestión de Proyectos
+### 📋 Sistema de Gestión de Proyectos & Créditos
 
 <p>
-  Sistema experimental para administrar usuarios, tareas, permisos, estados y un sistema de créditos asociado a la contribución de cada usuario.
+  Sistema de control y seguimiento de tareas, usuarios y cálculo automatizado de contribuciones en proyectos.
 </p>
 
 <p>
   <strong>Stack:</strong><br>
-  <code>Python</code> <code>FastAPI</code> <code>SQL</code> <code>Docker</code>
+  <code>Python</code> <code>FastAPI</code> <code>MySQL</code> <code>Docker</code>
 </p>
 
 <p>
-  <strong>Conceptos:</strong>
+  <strong>Puntos clave:</strong>
 </p>
 
 <ul>
-  <li>Modelado de datos</li>
-  <li>Relaciones entre entidades</li>
-  <li>Flujo de aprobación</li>
-  <li>Control de permisos</li>
-  <li>Gestión de tareas</li>
+  <li>Relaciones complejas en base de datos.</li>
+  <li>Lógica de aprobación y flujo de tareas.</li>
+  <li>Sistema automatizado para la asignación de créditos.</li>
 </ul>
 
 <p align="center">
@@ -205,27 +201,25 @@
 
 <td width="50%" valign="top">
 
-### 🔌 Electrónica & Programación
+### 🔌 Electrónica & Integración de Hardware
 
 <p>
-  Proyectos experimentales que combinan programación, electrónica y control de hardware.
+  Prototipado que combina control de sensores/actuadores con comunicación directa de código a hardware.
 </p>
 
 <p>
   <strong>Stack:</strong><br>
-  <code>C/C++</code> <code>Arduino</code> <code>Electrónica</code>
+  <code>C/C++</code> <code>Arduino</code> <code>Componentes Electrónicos</code>
 </p>
 
 <p>
-  <strong>Áreas:</strong>
+  <strong>Puntos clave:</strong>
 </p>
 
 <ul>
-  <li>Lógica de programación</li>
-  <li>Control de hardware</li>
-  <li>Comunicación software ↔ hardware</li>
-  <li>Robótica</li>
-  <li>Prototipos electrónicos</li>
+  <li>Programación estructurada en C/C++.</li>
+  <li>Control y lectura de hardware en tiempo real.</li>
+  <li>Lógica aplicada a sistemas embebidos.</li>
 </ul>
 
 <p align="center">
@@ -243,47 +237,43 @@
 ## 🎮 Scripting & Sistemas
 
 <p align="center">
-  <em>Una de las áreas donde más he experimentado durante mi aprendizaje.</em>
+  <em>Exploración práctica de lógica en tiempo real y entornos virtuales.</em>
 </p>
 
-<table align="center">
+<table align="center" width="100%">
   <tr>
     <td width="50%" valign="top">
 
-### Minecraft Bedrock
+### Minecraft Bedrock Script API
 
 <p>
-  Desarrollo de sistemas y mecánicas utilizando Minecraft Bedrock Script API.
+  Desarrollo de addons y mecánicas avanzadas para servidores utilizando JavaScript/TypeScript.
 </p>
 
 <p>
-  <code>JavaScript</code> <code>TypeScript</code> <code>3D Math</code>
+  <code>JavaScript</code> <code>TypeScript</code> <code>Matemáticas 3D</code>
 </p>
 
 <ul>
-  <li>Sistemas personalizados</li>
-  <li>Manipulación de entidades</li>
-  <li>Vectores y matemáticas 3D</li>
-  <li>Automatización</li>
-  <li>Lógica de gameplay</li>
+  <li>Implementación de física y vectores 3D.</li>
+  <li>Manipulación directa de eventos y entidades.</li>
+  <li>Lógica de gameplay avanzada y rendimiento.</li>
 </ul>
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🧠 Aprendizaje práctico
+### 🧠 Enfoque Técnico
 
 <p>
-  Me interesa comprender cómo funcionan los sistemas internamente, desde conceptos de bajo nivel hasta arquitecturas backend.
+  Comprensión profunda del ciclo de vida de una aplicación, desde el código de bajo nivel hasta el servidor web.
 </p>
 
 <ul>
-  <li>Programación estructurada</li>
-  <li>Algoritmos</li>
-  <li>Estructuras de datos</li>
-  <li>Arquitectura de software</li>
-  <li>Resolución de problemas</li>
+  <li>Gestión manual de memoria y punteros en C.</li>
+  <li>Algoritmos de optimización de estructuras de datos.</li>
+  <li>Diseño de arquitecturas escalables y limpias.</li>
 </ul>
 
 </td>
@@ -295,35 +285,35 @@
 ## 📚 Actualmente aprendiendo
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C%20%2F%20C%2B%2B-En_profundización-555555?style=for-the-badge&logo=c&logoColor=white" alt="C y C++"/>
-  <img src="https://img.shields.io/badge/Estructuras_de_datos-En_aprendizaje-555555?style=for-the-badge" alt="Estructuras de datos"/>
-  <img src="https://img.shields.io/badge/Algoritmos-En_aprendizaje-555555?style=for-the-badge" alt="Algoritmos"/>
-  <img src="https://img.shields.io/badge/Arquitectura_de_software-En_aprendizaje-555555?style=for-the-badge" alt="Arquitectura"/>
+  <img src="https://img.shields.io/badge/C%20%2F%20C%2B%2B-Profundización-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C/C++"/>
+  <img src="https://img.shields.io/badge/Estructuras_de_Datos-En_Proceso-3776AB?style=for-the-badge" alt="Estructuras de datos"/>
+  <img src="https://img.shields.io/badge/Algoritmos-En_Proceso-009688?style=for-the-badge" alt="Algoritmos"/>
+  <img src="https://img.shields.io/badge/Arquitectura_Backend-En_Proceso-2496ED?style=for-the-badge" alt="Arquitectura"/>
 </p>
 
 <br>
 
-<table align="center">
+<table align="center" width="100%">
   <tr>
     <td align="center" width="25%">
       <h3>🔧</h3>
       <strong>C / C++</strong>
-      <p>Memoria, punteros y fundamentos de bajo nivel.</p>
+      <p>Memoria dinámica, punteros y programación estructurada.</p>
     </td>
     <td align="center" width="25%">
       <h3>🧩</h3>
       <strong>Algoritmos</strong>
-      <p>Lógica, estructuras de datos y resolución de problemas.</p>
+      <p>Análisis de complejidad, búsqueda y estructuras de datos.</p>
     </td>
     <td align="center" width="25%">
       <h3>🏗️</h3>
       <strong>Backend</strong>
-      <p>APIs, bases de datos y arquitectura.</p>
+      <p>Patrones de diseño, ORMs, seguridad y bases de datos SQL.</p>
     </td>
     <td align="center" width="25%">
       <h3>🌐</h3>
-      <strong>English</strong>
-      <p>Inglés técnico para seguir aprendiendo.</p>
+      <strong>Inglés</strong>
+      <p>Lectura técnica, documentación e interacción con la comunidad global.</p>
     </td>
   </tr>
 </table>
@@ -346,11 +336,11 @@
 ## 🎯 Objetivo
 
 <p align="center">
-  <strong>Convertirme en un ingeniero capaz de entender y construir sistemas completos.</strong>
+  <strong>Evolucionar hacia un perfil de Software Engineer capaz de diseñar, optimizar y mantener sistemas complejos.</strong>
 </p>
 
 <p align="center">
-  Desde el código de bajo nivel hasta aplicaciones web y servicios backend.
+  Desde lógica de bajo nivel en C/C++ hasta APIs escalables e infraestructura distribuida.
 </p>
 
 <br>
@@ -358,7 +348,7 @@
 ## 📬 Contacto
 
 <p align="center">
-  ¿Tienes una idea, un proyecto o simplemente quieres hablar de programación?
+  ¿Tienes alguna propuesta, proyecto en mente o quieres charlar sobre tecnología?
 </p>
 
 <p align="center">
