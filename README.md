@@ -12,13 +12,30 @@
 
 ---
 
-## 🧑‍💻 Sobre mí
+<h2>Sobre mí 😃✨</h2>
+<!--Intro start-->
 
-Soy estudiante de **Ingeniería en Informática** especializado en el desarrollo de addons, sistemas y herramientas avanzadas con la **Minecraft Bedrock Script API** (`@minecraft/server`), además de desarrollo web backend e infraestructura.
+<p align="left">
+🎓 <b>ESTUDIANTE DE INGENIERÍA EN INFORMÁTICA</b> 🏫💻
 
-* **Enfoque técnico:** Lógica de gameplay en tiempo real, manipulación de entidades, matemáticas/vectores 3D, desarrollo de paneles de administración full-stack y APIs para servidores.
-* **Stack principal:** JavaScript, TypeScript, Python, FastAPI, MySQL, Docker, React, Vite y C/C++.
-* **Creación de contenido & Creador:** Desarrollo proyectos, tutoriales y herramientas de automatización para la comunidad bajo el alias **Maxus71**.
+🎥 <b>CREADOR DE CONTENIDO & DIVULGADOR TÉCNICO</b> 🚀
+<br>
+Compartiendo conocimientos 📚, creando tutoriales 🎬 y enseñando a programar addons y sistemas con la Bedrock Script API 🎮🔥
+
+💻 <b>MÁS DE 5 AÑOS DE EXPERIENCIA PRÁCTICA</b> ⚙️
+<br>
+Desarrollando addons 🧩, creando herramientas full-stack 🌐, construyendo APIs con FastAPI ⚡ y administrando bases de datos y servidores 🐳
+
+🛠️ <b>ROLES & EXPERIENCIA EN EL ÁMBITO</b> 🧠
+<br>
+Desarrollador backend 🐍 · Creador de addons & scripting 🎮 · Diseñador de paneles admin 🖥️ · Entusiasta del bajo nivel & hardware 🔌 · Creador de contenido 📹
+
+📫 <b>Contacto profesional:</b> ✉️
+<br>
+Puedes contactarme mediante un <b>Issue</b> o <b>Discussion</b> en GitHub 🐙
+<!--Intro end-->
+</p>
+<br>
 
 ---
 
@@ -83,7 +100,6 @@ Mecanismos personalizados, eventos y físicas programadas directamente sobre el 
   </a>
 </p>
 
----
 
 ---
 
