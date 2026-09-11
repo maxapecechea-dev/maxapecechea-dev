@@ -10,8 +10,6 @@
   <a href="https://linkedin.com/in/TU_USUARIO_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
----
-
 <h2>Sobre mí 😃✨</h2>
 <!--Intro start-->
 
@@ -36,8 +34,6 @@ Puedes contactarme mediante un <b>Issue</b> o <b>Discussion</b> en GitHub 🐙
 <!--Intro end-->
 </p>
 <br>
-
----
 
 ## 🛠️ Tecnologías & Herramientas
 
@@ -72,8 +68,6 @@ Puedes contactarme mediante un <b>Issue</b> o <b>Discussion</b> en GitHub 🐙
 
 <br>
 
----
-
 ## 🚀 Proyectos Destacados
 
 ### 🖥️ Plataforma Web & Panel de Administración para Servidores
@@ -100,8 +94,6 @@ Mecanismos personalizados, eventos y físicas programadas directamente sobre el 
   </a>
 </p>
 
-
----
 
 ## 🧩 Creador de Contenido & Comunidad (Maxus71)
 
