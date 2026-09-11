@@ -36,21 +36,25 @@ Puedes contactarme mediante un <b>Issue</b> o <b>Discussion</b> en GitHub 🐙
 <table align="center" width="100%">
   <tr>
     <td align="center" width="33%">
-      <h3>🥇 Python Master</h3>
-      <p><b>Formación Técnica</b></p>
-      <p> Destacado en 1.º Lugar de la Clase</p>
-      <img src="https://img.shields.io/badge/Skill-Python%20Core-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      <h3>🥇 Python Developer</h3>
+      <p><b>Kodland</b></p>      <p>🏆 1.º Puesto del Grupo</p>
+      <p>⏱️ 48 Horas | 📚 32 Lecciones</p>
+      <a href="./assets/cert-python-kodland.pdf">
+        <img src="https://img.shields.io/badge/Ver_Certificado-3776AB?style=flat-square&logo=pdf&logoColor=white"/>
+      </a>
     </td>
     <td align="center" width="33%">
       <h3>🎓 Emprendimiento</h3>
       <p><b>Proyecto Universitario</b></p>
       <p>⏱️ 280 Horas | 🪙 20 Créditos</p>
+      <p>📜 Acreditación Oficial</p>
       <img src="https://img.shields.io/badge/Validación-Oficial-success?style=flat-square"/>
     </td>
     <td align="center" width="33%">
       <h3>🏫 Bachillerato</h3>
       <p><b>Educación Media</b></p>
-      <p>📜 Certificado Oficial</p>
+      <p>🎓 Certificado Concluido</p>
+      <p>✨ Formación Base</p>
       <img src="https://img.shields.io/badge/Estatus-Concluido-blue?style=flat-square"/>
     </td>
   </tr>
