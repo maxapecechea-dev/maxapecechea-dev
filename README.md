@@ -68,10 +68,19 @@ Sistema full-stack centralizado para la gestión remota de servidores, edición 
 * **Frontend & Herramientas:** Editor de código integrado en la web mediante Monaco Editor, conexión en tiempo real para la gestión de servicios y despliegue contenedorizado con Docker.
 
 <p align="left">
-  <a href="https://github.com/TU_USUARIO_GITHUB/TU_REPOSITORIO">
+  <a href="https://github.com/maxapecechea-dev/TU_REPOSITORIO">
     <img src="https://img.shields.io/badge/Ver_repositorio-181717?style=for-the-badge&logo=github&logoColor=white" height="28" alt="Ver proyecto en GitHub" />
   </a>
 </p>
+
+---
+
+## 🧩 Scripting & Creación de Contenido
+
+Además del desarrollo backend general, diseño herramientas, scripts de automatización y contenido técnico enfocado en mecánicas de videojuegos bajo el alias **Maxus71**.
+
+* **Proyectos de Scripting:** Desarrollo de mecánicas avanzadas y sistemas interactivos utilizando la Minecraft Bedrock Script API (`JavaScript` / `TypeScript` / `Matemáticas 3D`).
+* **Divulgación:** Creación de tutoriales sobre lógica de programación, creación de addons y utilidades para la comunidad de desarrolladores independientes.
 
 ---
 
