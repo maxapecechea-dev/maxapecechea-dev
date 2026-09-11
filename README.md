@@ -33,11 +33,12 @@ Puedes contactarme mediante un <b>Issue</b> o <b>Discussion</b> en GitHub 🐙
 </p>
 <br>
 
-## 📜 Certificaciones & Logros
-
-* 🏆 **Programación en Python** — *Formación Técnica* (Destacado como 1.º lugar de la clase)
-* 🎓 **Proyecto de Emprendimiento Universitario** — *Acreditación de 280 hrs / 20 créditos*
-* 🏫 **Bachillerato General** — *Educación Media Superior*
+## 📜 Certificaciones & Credenciales
+| Credencial / Logro | Enfoque Técnico | Carga Horaria / Reconocimiento |
+| :--- | :--- | :--- |
+| **Programación en Python** <br> `Formación Técnica` | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![Top Class](https://img.shields.io/badge/Reconocimiento-1º%20Lugar-FFD700?style=flat-square) |
+| **Proyecto de Emprendimiento** <br> `Acreditación Universitaria` | ![Management](https://img.shields.io/badge/Gestión-Proyectos-0052CC?style=flat-square) | ![Credits](https://img.shields.io/badge/Acreditado-280%20Hrs%20%2F%2020%20Créditos-success?style=flat-square) |
+| **Educación Media Superior** <br> `Certificado de Bachillerato` | ![Academic](https://img.shields.io/badge/Formación-Académica-4A5568?style=flat-square) | ![Status](https://img.shields.io/badge/Estado-Completado-blue?style=flat-square) |
 
 ## 🛠️ Tecnologías & Herramientas
 
