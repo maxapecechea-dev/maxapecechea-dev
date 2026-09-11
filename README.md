@@ -12,7 +12,7 @@
   <a href="https://linkedin.com/in/TU_USUARIO_LINKEDIN">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:max.chavezapecechea@gmail.com">
+  <a href="mailto:max.chavezapecechea@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
