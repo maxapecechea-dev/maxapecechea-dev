@@ -65,19 +65,20 @@ Soy estudiante de **Ingeniería en Informática** enfocado en desarrollo de soft
 
 ---
 
-## 🚀 Proyectos destacados
+## 🚀 Proyecto Destacado
 
-### 🖥️ Plataforma Web de Administración
-Panel web full-stack para centralizar la gestión de servicios, edición de código en vivo y consumo de APIs backend.
-* **Stack:** `Python` · `FastAPI` · `React` · `Vite` · `Docker` · `Monaco Editor`
-* **Puntos clave:** APIs RESTful, autenticación/permisos, edición en tiempo real y despliegue contenedorizado.
-* [<img src="https://img.shields.io/badge/Ver_proyecto-181717?style=for-the-badge&logo=github&logoColor=white" height="28" />](https://github.com/TU_USUARIO_GITHUB/TU_REPOSITORIO_1)
+### 🖥️ Plataforma Web & API Backend de Administración
+Sistema full-stack centralizado para la gestión remota de servidores, edición de código en vivo y administración de usuarios en tiempo real.
 
-### ⚡ API Backend con FastAPI & MySQL
-Backend optimizado enfocado en gestión de usuarios, roles de acceso, persistencia de datos y rendimiento.
-* **Stack:** `Python` · `FastAPI` · `MySQL` · `SQLAlchemy` · `Docker`
-* **Puntos clave:** Endpoints REST escalables, modelado relacional y autenticación JWT.
-* [<img src="https://img.shields.io/badge/Ver_proyecto-181717?style=for-the-badge&logo=github&logoColor=white" height="28" />](https://github.com/TU_USUARIO_GITHUB/TU_REPOSITORIO_2)
+* **Stack:** `Python` · `FastAPI` · `MySQL` · `SQLAlchemy` · `React` · `Vite` · `Docker` · `Monaco Editor`
+* **Arquitectura & Backend:** API RESTful optimizada con autenticación JWT, control de acceso basado en roles (RBAC) y persistencia relacional en MySQL.
+* **Frontend & Herramientas:** Editor de código integrado en la web mediante Monaco Editor, conexión en tiempo real para la gestión de servicios y despliegue contenedorizado con Docker.
+
+<p align="left">
+  <a href="https://github.com/TU_USUARIO_GITHUB/TU_REPOSITORIO">
+    <img src="https://img.shields.io/badge/Ver_repositorio-181717?style=for-the-badge&logo=github&logoColor=white" height="28" alt="Ver proyecto en GitHub" />
+  </a>
+</p>
 
 ---
 
