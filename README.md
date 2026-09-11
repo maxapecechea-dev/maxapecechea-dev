@@ -33,6 +33,12 @@ Puedes contactarme mediante un <b>Issue</b> o <b>Discussion</b> en GitHub 🐙
 </p>
 <br>
 
+## 📜 Certificaciones & Logros
+
+* 🏆 **Programación en Python** — *Formación Técnica* (Destacado como 1.º lugar de la clase)
+* 🎓 **Proyecto de Emprendimiento Universitario** — *Acreditación de 280 hrs / 20 créditos*
+* 🏫 **Bachillerato General** — *Educación Media Superior*
+
 ## 🛠️ Tecnologías & Herramientas
 
 <p align="center">
