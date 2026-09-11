@@ -6,13 +6,13 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/TU_USUARIO_GITHUB">
+  <a href="https://github.com/maxapecechea-dev">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://linkedin.com/in/TU_USUARIO_LINKEDIN">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:TU_CORREO">
+  <a href="mailto:max.chavezapecechea@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
@@ -84,12 +84,12 @@ Backend optimizado enfocado en gestión de usuarios, roles de acceso, persistenc
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats"/>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_GITHUB&layout=compact&theme=dark&hide_border=true" alt="Top Languages"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=maxapecechea-dev&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxapecechea-dev&layout=compact&theme=dark&hide_border=true" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO_GITHUB&theme=dark&hide_border=true" alt="GitHub Streak"/>
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=maxapecechea-dev&theme=dark&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
