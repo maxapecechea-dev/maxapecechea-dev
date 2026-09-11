@@ -66,28 +66,17 @@ Puedes contactarme mediante un <b>Issue</b> o <b>Discussion</b> en GitHub 🐙
 
 <br>
 
-## 🚀 Proyectos Destacados
+## 🚀 Proyecto Destacado
 
-### 🖥️ Plataforma Web & Panel de Administración para Servidores
-Panel web full-stack diseñado para centralizar la gestión de servidores, edición remota de archivos/addons en tiempo real e integración con APIs backend.
+### 🖥️ Plataforma Web & API Backend de Administración
+Sistema full-stack centralizado para la gestión remota de servidores, edición de código en vivo y administración de usuarios en tiempo real.
 
-* **Stack:** `Python` · `FastAPI` · `MySQL` · `React` · `Vite` · `Docker` · `Monaco Editor`
-* **Puntos clave:** Editor de código integrado en la web mediante Monaco Editor, autenticación de usuarios, gestión de contenedores con Docker y API RESTful.
-
-<p align="left">
-  <a href="https://github.com/maxapecechea-dev/TU_REPOSITORIO_1">
-    <img src="https://img.shields.io/badge/Ver_repositorio-181717?style=for-the-badge&logo=github&logoColor=white" height="28" alt="Ver proyecto en GitHub" />
-  </a>
-</p>
-
-### ⚡ Addons & Sistemas con Bedrock Script API
-Mecanismos personalizados, eventos y físicas programadas directamente sobre el motor de Minecraft Bedrock.
-
-* **Stack:** `JavaScript` · `TypeScript` · `Minecraft Bedrock Script API`
-* **Puntos clave:** Manipulación de eventos en tiempo real, gestión de datos con Dynamic Properties, algoritmos de cálculo de distancia/dirección 3D y optimización de rendimiento.
+* **Stack:** `Python` · `FastAPI` · `MySQL` · `SQLAlchemy` · `React` · `Vite` · `Docker` · `Monaco Editor`
+* **Arquitectura & Backend:** API RESTful optimizada con autenticación JWT, control de acceso basado en roles (RBAC) y persistencia relacional en MySQL.
+* **Frontend & Herramientas:** Editor de código integrado en la web mediante Monaco Editor, conexión en tiempo real para la gestión de servicios y despliegue contenedorizado con Docker.
 
 <p align="left">
-  <a href="https://github.com/maxapecechea-dev/TU_REPOSITORIO_2">
+  <a href="https://github.com/TU_USUARIO_GITHUB/TU_REPOSITORIO">
     <img src="https://img.shields.io/badge/Ver_repositorio-181717?style=for-the-badge&logo=github&logoColor=white" height="28" alt="Ver proyecto en GitHub" />
   </a>
 </p>
