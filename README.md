@@ -85,15 +85,28 @@ Mecanismos personalizados, eventos y físicas programadas directamente sobre el 
 
 ---
 
+---
+
 ## 🧩 Creador de Contenido & Comunidad (Maxus71)
 
 Bajo el alias **Maxus71**, creo contenido educativo e impulso proyectos para la comunidad de desarrollo en Minecraft Bedrock:
 
-* **Divulgación:** Tutoriales en YouTube sobre cómo programar addons y utilizar la Script API oficial.
-* **Sistemas personalizados:** Creación de addons con misiones, mecánicas de juego avanzadas y herramientas para creadores.
+* **Divulgación:** Tutoriales sobre cómo programar addons, estructuras de datos y utilización de la Script API oficial (`@minecraft/server`).
+* **Sistemas personalizados:** Desarrollo de addons con mecánicas avanzadas, herramientas de automatización y proyectos interactivos.
+
+<p align="left">
+  <a href="https://www.youtube.com/@maxus71" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Maxus71"/>
+  </a>
+  <a href="https://www.tiktok.com/@maxus71_mc" target="_blank">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok Maxus71"/>
+  </a>
+</p>
 
 ---
 
 <p align="center">
   <em>「Build it. Break it. Understand it. Improve it.」</em> 🚀
 </p>
+
+---
