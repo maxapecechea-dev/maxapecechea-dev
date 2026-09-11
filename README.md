@@ -81,19 +81,6 @@ Backend optimizado enfocado en gestión de usuarios, roles de acceso, persistenc
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=maxapecechea-dev&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats"/>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxapecechea-dev&layout=compact&theme=dark&hide_border=true" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=maxapecechea-dev&theme=dark&hide_border=true" alt="GitHub Streak"/>
-</p>
-
----
-
 <p align="center">
   <em>「Build it. Break it. Understand it. Improve it.」</em> 🚀
 </p>
