@@ -36,11 +36,32 @@ Soy estudiante de **Ingeniería en Informática** enfocado en desarrollo de soft
   <img src="https://skillicons.dev/icons?i=c,cpp,py,js,ts,html,css,fastapi,nodejs,react,vite,mysql,docker,git,github,vscode,linux,arduino&perline=9" alt="Tecnologías"/>
 </p>
 
-| 💻 Lenguajes | 🌐 Backend & Web | ⚙️ Herramientas & Entorno |
-| :--- | :--- | :--- |
-| C · C++ · Python | FastAPI · Node.js | Docker · Git · GitHub |
-| JavaScript · TypeScript | REST APIs · MySQL / SQL | Linux · VS Code · Arduino |
-| HTML5 · CSS3 | React · Vite · Monaco Editor | Impresión 3D & Prototipado |
+<br>
+
+<table align="center" style="border: none;">
+  <tr>
+    <td align="center" width="33%" style="border: none;">
+      <h3>💻 Lenguajes</h3>
+      <p>C · C++ · Python</p>
+      <p>JavaScript · TypeScript</p>
+      <p>HTML5 · CSS3</p>
+    </td>
+    <td align="center" width="33%" style="border: none;">
+      <h3>🌐 Backend & Web</h3>
+      <p>FastAPI · Node.js</p>
+      <p>REST APIs · MySQL / SQL</p>
+      <p>React · Vite · Monaco Editor</p>
+    </td>
+    <td align="center" width="33%" style="border: none;">
+      <h3>⚙️ Herramientas & Entorno</h3>
+      <p>Docker · Git · GitHub</p>
+      <p>Linux · VS Code · Arduino</p>
+      <p>Impresión 3D & Prototipado</p>
+    </td>
+  </tr>
+</table>
+
+<br>
 
 ---
 
